@@ -98,7 +98,7 @@ module.exports = withNativeWind(config, { input: "./src/styles/global.css" });
   }
 ```
 
-**8° Passo:** Rodando o projeto
+**9° Passo:** Rodando o projeto
  - Caso tenha baixado do git instale as dependências:
     ```
       npm i
